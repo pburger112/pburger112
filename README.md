@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pburger112
-- 👀 I’m interested in higher order statistics for weak lensing and clusterng, and ML
-- 🌱 I’m currently learning simulation based inferences
+- 👀 I’m an Astrophysicist, Machine Learning Engineer & Data Scientist/Analyst
 - 💞️ I’m looking to collaborate on KiDS, Euclid and UNIONS
 - 📫 How to reach me pierre.burger@uwaterloo.ca
 
